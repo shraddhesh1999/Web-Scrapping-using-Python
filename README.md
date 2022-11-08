@@ -2,7 +2,7 @@
 
 The Python file "project.py" is self contained file.
 
-Required Libararies and Modules to run the files are:
+Required Libararies and Modules to run the files are-
     - BeautifulSoup / BS4
     - xlxswriter
     
